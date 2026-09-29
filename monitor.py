@@ -4,9 +4,9 @@ la comparaison avec l'état précédent, via les fonctions communes."""
 import sys
 
 import commun
-import commun, site_lechoppe, site_pokuji
+import commun, site_lechoppe, site_enviedejapon
 
-SITES = [site_lechoppe, site_pokuji]
+SITES = [site_lechoppe, site_enviedejapon]
 
 
 def main():
