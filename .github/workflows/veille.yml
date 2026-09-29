@@ -1,4 +1,4 @@
-name: Veille Pokémon
+name: Veille 
 on:
   schedule:
     - cron: "*/5 * * * *"
