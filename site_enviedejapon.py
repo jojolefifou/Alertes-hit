@@ -28,10 +28,9 @@ def _parse_categorie(html):
         if not m:
             continue
 
-        url = BASE_URL + href.lstrip("?").join(["?", ""]) if False else BASE_URL + href
-        # (URL absolue = base + "?page=product&id=XXXX")
+        url = BASE_URL + href
 
-        media = figure.find_parent("figure").find_next_sibling("div", class_="media")
+        media = figure.find_next_sibling("div", class_="media")
         nom = None
         prix = "?"
         if media:
