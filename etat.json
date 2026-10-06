@@ -2,7 +2,7 @@
   "https://www.lechoppedeslegendes.fr/produit/one-piece-op17-booster-fr/": {
     "nom": "One Piece OP17 : Booster FR",
     "prix": "6,50 €",
-    "en_stock": false
+    "en_stock": true
   },
   "https://www.lechoppedeslegendes.fr/produit/one-piece-op15-booster-fr/": {
     "nom": "One Piece OP15 : Booster FR",
@@ -32,7 +32,7 @@
   "https://www.lechoppedeslegendes.fr/produit/one-piece-op13-booster-fr/": {
     "nom": "One Piece OP13 : Booster FR",
     "prix": "6,50 €",
-    "en_stock": false
+    "en_stock": true
   },
   "https://www.lechoppedeslegendes.fr/produit/one-piece-op12-booster-fr/": {
     "nom": "One Piece OP12 : Booster FR",
