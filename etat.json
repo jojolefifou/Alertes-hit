@@ -216,5 +216,10 @@
     "prix": "44.50 €",
     "en_stock": true,
     "stock": 1
+  },
+  "https://www.lechoppedeslegendes.fr/produit/pokemon-ev6-display-de-36-boosters-mascarade-crepusculaire/": {
+    "nom": "Pokémon EV6 : Display de 36 boosters – Evolution à Paldea",
+    "prix": "239,90 €",
+    "en_stock": true
   }
 }
