@@ -221,5 +221,11 @@
     "nom": "Pokémon EV6 : Display de 36 boosters – Evolution à Paldea",
     "prix": "239,90 €",
     "en_stock": true
+  },
+  "https://enviedejapon.hiboutik.com/shop/?page=product&id=5478": {
+    "nom": "Pokémon EV06 - coffret dresseur d'élite ETB Mascarade crépusculaire",
+    "prix": "60.00 €",
+    "en_stock": true,
+    "stock": 26
   }
 }
