@@ -239,5 +239,11 @@
     "prix": "4.00 €",
     "en_stock": true,
     "stock": 30
+  },
+  "https://enviedejapon.hiboutik.com/shop/?page=product&id=10578": {
+    "nom": "Pokémon - booster Mega Brave M1L (JP)",
+    "prix": "4.00 €",
+    "en_stock": true,
+    "stock": 90
   }
 }
