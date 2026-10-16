@@ -227,5 +227,17 @@
     "prix": "60.00 €",
     "en_stock": true,
     "stock": 21
+  },
+  "https://enviedejapon.hiboutik.com/shop/?page=product&id=17221": {
+    "nom": "Pokémon - booster Storm Emeralda M6",
+    "prix": "4.00 €",
+    "en_stock": true,
+    "stock": 42
+  },
+  "https://enviedejapon.hiboutik.com/shop/?page=product&id=17220": {
+    "nom": "Pokémon - booster Abyss Eye M5",
+    "prix": "4.00 €",
+    "en_stock": true,
+    "stock": 30
   }
 }
