@@ -59,7 +59,7 @@
     "nom": "Pokémon - tripack ME05 Nuit Noire",
     "prix": "19.90 €",
     "en_stock": true,
-    "stock": 10
+    "stock": 9
   },
   "https://enviedejapon.hiboutik.com/shop/?page=product&id=14272": {
     "nom": "Pokémon - display ME05 Nuit Noire",
@@ -89,7 +89,7 @@
     "nom": "Pokémon - booster ME04 Chaos ascendant",
     "prix": "6.90 €",
     "en_stock": true,
-    "stock": 348
+    "stock": 346
   },
   "https://enviedejapon.hiboutik.com/shop/?page=product&id=12891": {
     "nom": "Pokémon - coffret mai 2026 Méga-Zygarde",
@@ -101,7 +101,7 @@
     "nom": "Pokémon - booster Equilibre parfait ME03",
     "prix": "6.90 €",
     "en_stock": true,
-    "stock": 270
+    "stock": 268
   },
   "https://enviedejapon.hiboutik.com/shop/?page=product&id=12624": {
     "nom": "Pokémon - bundle Equilibre parfait ME03",
@@ -131,7 +131,7 @@
     "nom": "Pokémon - coffret premium Méga Florizarre",
     "prix": "54.00 €",
     "en_stock": true,
-    "stock": 10
+    "stock": 9
   },
   "https://enviedejapon.hiboutik.com/shop/?page=product&id=10666": {
     "nom": "Pokémon - coffret Méga Kangourex",
@@ -244,6 +244,6 @@
     "nom": "Pokémon - booster Mega Brave M1L (JP)",
     "prix": "4.00 €",
     "en_stock": true,
-    "stock": 120
+    "stock": 119
   }
 }
