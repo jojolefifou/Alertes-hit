@@ -53,7 +53,7 @@
     "nom": "Pokémon - checklane août 2026",
     "prix": "13.00 €",
     "en_stock": true,
-    "stock": 2
+    "stock": 1
   },
   "https://enviedejapon.hiboutik.com/shop/?page=product&id=14273": {
     "nom": "Pokémon - tripack ME05 Nuit Noire",
@@ -226,7 +226,7 @@
     "nom": "Pokémon EV06 - coffret dresseur d'élite ETB Mascarade crépusculaire",
     "prix": "60.00 €",
     "en_stock": true,
-    "stock": 12
+    "stock": 11
   },
   "https://enviedejapon.hiboutik.com/shop/?page=product&id=17221": {
     "nom": "Pokémon - booster Storm Emeralda M6",
@@ -238,12 +238,12 @@
     "nom": "Pokémon - booster Abyss Eye M5",
     "prix": "4.00 €",
     "en_stock": true,
-    "stock": 30
+    "stock": 29
   },
   "https://enviedejapon.hiboutik.com/shop/?page=product&id=10578": {
     "nom": "Pokémon - booster Mega Brave M1L (JP)",
     "prix": "4.00 €",
     "en_stock": true,
-    "stock": 119
+    "stock": 118
   }
 }
