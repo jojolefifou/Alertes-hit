@@ -89,7 +89,7 @@
     "nom": "Pokémon - booster ME04 Chaos ascendant",
     "prix": "6.90 €",
     "en_stock": true,
-    "stock": 310
+    "stock": 274
   },
   "https://enviedejapon.hiboutik.com/shop/?page=product&id=12891": {
     "nom": "Pokémon - coffret mai 2026 Méga-Zygarde",
@@ -256,18 +256,18 @@
     "nom": "Pokémon - booster ME06 Règne Delta",
     "prix": "6.90 €",
     "en_stock": true,
-    "stock": 299
+    "stock": 298
   },
   "https://enviedejapon.hiboutik.com/shop/?page=product&id=17371": {
     "nom": "Pokémon - display ME06 Règne Delta",
     "prix": "216.00 €",
     "en_stock": true,
-    "stock": 8
+    "stock": 6
   },
   "https://enviedejapon.hiboutik.com/shop/?page=product&id=17369": {
     "nom": "Pokémon - tripack ME06 Règne Delta",
     "prix": "19.90 €",
     "en_stock": true,
-    "stock": 28
+    "stock": 27
   }
 }
