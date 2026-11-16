@@ -131,7 +131,7 @@
     "nom": "Pokémon - coffret premium Méga Florizarre",
     "prix": "54.00 €",
     "en_stock": true,
-    "stock": 9
+    "stock": 8
   },
   "https://enviedejapon.hiboutik.com/shop/?page=product&id=10666": {
     "nom": "Pokémon - coffret Méga Kangourex",
@@ -268,6 +268,6 @@
     "nom": "Pokémon - tripack ME06 Règne Delta",
     "prix": "19.90 €",
     "en_stock": true,
-    "stock": 20
+    "stock": 16
   }
 }
