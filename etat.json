@@ -131,7 +131,7 @@
     "nom": "Pokémon - coffret premium Méga Florizarre",
     "prix": "54.00 €",
     "en_stock": true,
-    "stock": 8
+    "stock": 7
   },
   "https://enviedejapon.hiboutik.com/shop/?page=product&id=10666": {
     "nom": "Pokémon - coffret Méga Kangourex",
@@ -256,7 +256,7 @@
     "nom": "Pokémon - booster ME06 Règne Delta",
     "prix": "6.90 €",
     "en_stock": true,
-    "stock": 262
+    "stock": 258
   },
   "https://enviedejapon.hiboutik.com/shop/?page=product&id=17371": {
     "nom": "Pokémon - display ME06 Règne Delta",
@@ -269,5 +269,17 @@
     "prix": "19.90 €",
     "en_stock": true,
     "stock": 11
+  },
+  "https://enviedejapon.hiboutik.com/shop/?page=product&id=17569": {
+    "nom": "One Piece TCG - premium card collection Live Action vol.2 Baroque works",
+    "prix": "33.90 €",
+    "en_stock": true,
+    "stock": 8
+  },
+  "https://enviedejapon.hiboutik.com/shop/?page=product&id=17568": {
+    "nom": "One Piece TCG - premium card collection Live Action vol.2 straw hat crew",
+    "prix": "33.90 €",
+    "en_stock": true,
+    "stock": 8
   }
 }
